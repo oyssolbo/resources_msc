@@ -1,0 +1,18 @@
+Meshes:
+  - Name: "Helipad"
+    FbxPath: "/home/killah/Documents/project_thesis/anafi_uav_simulator/helipad.fbx"  
+    Location: "-325 0 100" 
+    Rotation: "0 0 0"
+    Scale: "1 1 1"
+    SnapToGround: true
+
+# Tags:
+#   - Name: "HelipadTag"
+#     FilePath: "/home/killah/Documents/project_thesis/anafi_uav_simulator/helipad.png"
+#     Location : 'Roof'
+#     Width : 200
+#     Height : 200
+
+#     OffsetX : 0
+#     OffsetY : 0
+#     OffsetZ : 0
